@@ -1,0 +1,202 @@
+
+.okk {
+    display: flex;
+    height: 70px;
+    border: 1px solid green; 
+    text-align: center  
+
+}
+
+.okk a{
+    padding: 20px;
+    background-color: green;
+    color: white;
+    border-style: none;
+    font-size: large;
+    text-decoration:none;
+
+}
+/* .okk:hover {
+    
+
+
+} */
+
+
+
+.one{ flex: 1;
+    
+
+}
+
+.two{ flex: 1;
+
+}
+
+.three{flex: 1;
+
+}
+
+.four{flex: 1;
+
+}
+
+
+.one:hover{
+     color: red;
+
+}
+
+.two:hover{
+    color: red;
+
+}
+
+.three:hover{
+    color: red;
+
+}
+
+.four:hover{
+    color: red;
+
+}
+
+.video {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ 
+}
+
+.tot{ 
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;    
+}
+
+.table1 td{
+    margin-left: auto;
+    margin-right: auto;
+    height: 50px;
+    background-color: white;
+    color: green;
+    text-decoration:none;
+   
+    
+}
+
+#e{
+    background-color: white;
+    color: green;
+    text-decoration:none;
+}
+
+
+#f{background-color: white;
+    color: green;
+    text-decoration:none;
+}
+
+
+
+#g{
+    background-color: white;
+    color: green;
+    text-decoration:none;
+
+}
+
+#h{
+    background-color: white;
+    color: green;
+    text-decoration:none;
+
+}
+
+
+
+.table2 td{
+    height: 50px;
+    background-color: white;
+    color: green;
+    text-decoration:none;
+}
+
+   
+
+#i{
+    background-color: white;
+    color: green;
+    text-decoration:none;
+}
+
+
+#ii{background-color: white;
+    color: green;
+    text-decoration:none;
+}
+
+
+
+#iii{
+    background-color: white;
+    color: green;
+    text-decoration:none;
+
+}
+
+#iiii{
+    background-color: white;
+    color: green;
+    text-decoration:none;
+
+}
+
+#l{
+    background-color: white;
+    color: green;
+    text-decoration:none;
+}
+
+
+#ll{background-color: white;
+    color: green;
+    text-decoration:none;
+}
+
+
+
+#lll{
+    background-color: white;
+    color: green;
+    text-decoration:none;
+
+}
+
+#llll{
+    background-color: white;
+    color: green;
+    text-decoration:none;
+
+}
+
+
+.map{
+    padding-left: 30%;
+    position: relative;
+}
+
+    
+.mm{
+    text-align: center;
+}
+   
+
+.img{
+    padding-left: 40%;
+    position: relative;
+    width: 300px;
+    height: 300px;
+
+}
